@@ -782,7 +782,7 @@ body {
 }
 .card-author {
   font-size: 19px;
-  color: #faa307;
+  color: var(--kuning-7);
   font-weight: bold;
 }
 .card-date {
@@ -804,7 +804,8 @@ body {
   font-family: "Work Sans", sans-serif;
   display: flex;
   position: relative;
-  margin: auto;
+  top:10%;
+  bottom: 10%;
   width: 80%;
   height: 80%;
 }
@@ -846,6 +847,8 @@ body {
   text-align: center;
   color: #fff;
   margin: auto;
+  letter-spacing: 12px;
+  font-size: 42px;
 }
 .login-info {
   display: flex;
@@ -856,8 +859,13 @@ body {
   background-color: #9d0208;
 }
 .login-info h1 {
-  padding: 0 15%;
+  padding-bottom: 25px;
+  padding-top: 45px;
   color: #fff;
+  padding-left: 73px;
+  letter-spacing: 5px;
+  font-size: 42px;
+  font-weight: 505;
 }
 .login-info .login-input {
   display: flex;
@@ -871,7 +879,7 @@ body {
   width: 100%;
 
   background-color: #9d0208;
-  border: 2px solid #faa307;
+  border: 2px solid var(--kuning-7);
   border-radius: 5px;
   padding: 4% 4%;
   margin: 8px 0;
@@ -884,9 +892,9 @@ body {
   outline: none !important;
 }
 .login-info a {
-  font-size: 10px;
+  font-size: 14px;
   font-style: italic;
-  color: #faa307;
+  color: var(--kuning-7);
   padding: 0 15%;
   position: relative;
   float: right;
@@ -899,8 +907,8 @@ body {
   padding: 0 5%;
 }
 .login-info .button button {
-  color: #6a040f;
-  background-color: #faa307;
+  color: var(--merah-3);
+  background-color: var(--kuning-7);
   border: none;
   border-radius: 5px;
   padding: 4px 20px;
@@ -909,5 +917,5 @@ body {
   background-color: #ffbd41;
 }
 .login-info .button button:active {
-  background-color: #faa307;
+  background-color: var(--kuning-7);
 }

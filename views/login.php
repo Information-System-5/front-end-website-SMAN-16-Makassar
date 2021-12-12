@@ -14,8 +14,8 @@
     <script src="https://kit.fontawesome.com/54218bd639.js" crossorigin="anonymous"></script>
 </head>
 <body>
-<div class="wrapper-login">
-      <div class="login-title">
+  <div class="wrapper-login mx-auto">
+    <div class="login-title">
         <div class="title-img">
           <img src="../assets/image/login.png" alt="Scout group" />
         </div>
@@ -37,6 +37,6 @@
           <button type="button" class="btn btn-warning">Login</button>
         </div>
       </div>
-    </div>
+  </div>
 </body>
 </html>
