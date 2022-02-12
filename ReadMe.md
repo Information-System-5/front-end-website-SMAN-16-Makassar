@@ -8,5 +8,5 @@ Website ini dibangun untuk memenuhi tugas project Sistem Informasi 2021.
 3. Brillianita Rezki Hijnur (D121191047)
 4. Reinhart Wibisono Soplantila (D121191051) 
 
-### Nama Tim 
+### Nama Tim :
 **_BRAW_** (Brilianita, Rein, Artia, William) 
